@@ -1,5 +1,5 @@
 import React from 'react';
-import { RootNavigator } from './navivations/RootNavigator';
+import { RootNavigator } from './navigations/RootNavigator';
 import { Provider } from 'react-redux';
 import { store } from './store';
 
